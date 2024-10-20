@@ -1,3 +1,4 @@
+<head><link rel="shortcut icon" type="image/jpg" href="thanksjeff.jpg"></head>
 ## Thanks for 3 main reasons:
 ### * Being cool
 ### * Liking cheese (guessing)
