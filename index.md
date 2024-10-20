@@ -5,13 +5,13 @@ description: "The Website That Thanks The Game-dev And YouTuber JustJeff"
 
 <head><link rel="shortcut icon" type="image/png" href="favicon.png"></head>
 
-## Thanks for 3 main reasons:
-### * Being cool
-### * Liking cheese (guessing)
-### * Making fire content  
+## Thanks For 3 Main Reasons:
+### * Being Cool
+### * Liking Cheese (Guessing)
+### * Making Fire Content  
 
 # So  ***Thanks***
    
-### Now do I win the polite-off?
-#### Tiny plug for your [YouTube](https://www.youtube.com/channel/UCF1vJfwXJ0-f61bh0yX6Ifg)
+### Now Do I Win The Polite-off?
+#### Tiny Plug For Your [YouTube](https://www.youtube.com/channel/UCF1vJfwXJ0-f61bh0yX6Ifg)
 ![thanksjeff](thanksjeff.jpg)
