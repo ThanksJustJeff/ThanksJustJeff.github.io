@@ -12,5 +12,6 @@ title: Thank YOU JustJeff
 # So  **Thanks**
    
 ### Now Do I Win The Polite-off?
-#### Tiny Plug For Your [YouTube](https://www.youtube.com/channel/UCF1vJfwXJ0-f61bh0yX6Ifg)
+
 ![thanksjeff](thanksjeff.jpg)
+#### Tiny Plug For Your [YouTube](https://www.youtube.com/channel/UCF1vJfwXJ0-f61bh0yX6Ifg)
