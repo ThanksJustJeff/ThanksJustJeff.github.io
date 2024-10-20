@@ -8,6 +8,7 @@ plugins:
 exclude:
   - _config.yml
   - LICENSE
+description: "The Website That Thanks The Game-dev And YouTuber JustJeff"
 title: "Thank YOU JustJeff"
 show_downloads: false
 back_to_top: true
