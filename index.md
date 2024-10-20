@@ -3,7 +3,7 @@ title: Thank YOU JustJeff
 description: "The Website That Thanks The Game-dev And YouTuber JustJeff"
 ----
 
-<head><link rel="shortcut icon" type="image/png" href="favicon.png"></head>
+<link rel="shortcut icon" type="image/png" href="favicon.png">
 
 ## Thanks For 3 Main Reasons:
 ### * Being Cool
