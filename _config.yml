@@ -12,7 +12,7 @@ description: "The Website That Thanks The Game-dev And YouTuber JustJeff"
 title: "Thank YOU JustJeff"
 show_downloads: false
 back_to_top: true
-site_favicon: favicon.png
+site_favicon: favicon.ico
 back_to_top_text: "Back To Top"
 gh_edit_link: false
 permalink: pretty
