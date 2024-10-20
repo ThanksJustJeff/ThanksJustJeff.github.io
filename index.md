@@ -1,4 +1,9 @@
-<head><link rel="shortcut icon" type="image/jpg" href="thanksjeff.jpg"></head>
+----
+title: Thank YOU JustJeff
+----
+
+<head><link rel="shortcut icon" type="image/png" href="favicon.png"></head>
+
 ## Thanks for 3 main reasons:
 ### * Being cool
 ### * Liking cheese (guessing)
