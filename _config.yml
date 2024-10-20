@@ -1,0 +1,16 @@
+theme: jekyll-theme-tactile
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-responsive_image
+  - emoji_for_jekyll
+exclude:
+  - _config.yml
+  - LICENSE
+title: "Thank YOU JustJeff"
+show_downloads: false
+back_to_top: true
+back_to_top_text: "Back To Top"
+gh_edit_link: false
+permalink: pretty
