@@ -1,8 +1,3 @@
-----
-title: "Thank YOU JustJeff"
-description: "The Website That Thanks The Game-dev And YouTuber JustJeff"
-----
-
 ## Thanks For 3 Main Reasons:
 ### * Being Cool
 ### * Liking Cheese (Guessing)
