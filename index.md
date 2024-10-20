@@ -9,7 +9,7 @@ title: Thank YOU JustJeff
 ### * Liking Cheese (Guessing)
 ### * Making Fire Content  
 
-# So  ***Thanks***
+# So  **Thanks**
    
 ### Now Do I Win The Polite-off?
 #### Tiny Plug For Your [YouTube](https://www.youtube.com/channel/UCF1vJfwXJ0-f61bh0yX6Ifg)
